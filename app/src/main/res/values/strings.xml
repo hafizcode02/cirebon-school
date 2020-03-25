@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Cirebon School</string>
+    <string name="nama_sekolah">Nama Sekolah</string>
+    <string name="web_sekolah">Website Sekolah</string>
+    <string name="kontak_sekolah">Kontak Sekolah</string>
+    <string name="kontak_nemail_nwebsite">Kontak : \nEmail : \nWebsite :</string>
+    <string name="isinya">Isinya</string>
+    <string name="alamat_sekolah">Alamat Sekolah</string>
+    <string name="lorem_alamat">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua.</string>
+    <string name="lorem_detail">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur.</string>
+</resources>
